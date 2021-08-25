@@ -1,0 +1,19 @@
+{
+  "jobs": [
+    {
+      "description": "Building a clone of Coin Market Cap",
+      "value": 1,
+      "address": "0x0D2c2E1B66639EB4470685743645EF70E31E0F1E"
+    },
+    {
+      "description": "Building a clone of UniSwap",
+      "value": 1,
+      "address": "0x0D2c2E1B66639EB4470685743645EF70E31E0F1E"
+    },
+    {
+      "description": "Building a clone of Compound",
+      "value": 1,
+      "address": "0x0D2c2E1B66639EB4470685743645EF70E31E0F1E"
+    }
+  ]
+}
